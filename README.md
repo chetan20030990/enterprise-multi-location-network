@@ -395,7 +395,7 @@ ip access-list extended FINANCE_SECURITY_POLICY
 
 ### 🎯 Available For
 - **💼 Network Engineer positions** (Full-time starting May 2026)
-- **🔄 Internship opportunities** (Summer 2025, Co-op programs)
+- **🔄 Internship opportunities** (Fall 2025 & Spring 2026, Co-op programs)
 - **📋 Technical consultations** (Network design and optimization)
 - **🏫 Educational discussions** (Networking concepts and implementation)
 
