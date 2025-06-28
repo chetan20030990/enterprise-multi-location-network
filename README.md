@@ -316,12 +316,11 @@ ip access-list extended FINANCE_SECURITY_POLICY
 - **👨‍🏫 Professor:** Prof. Rajiv Shridhar  
 - **🏫 Institution:** Northeastern University, Boston, MA
 - **📅 Semester:** Fall 2024
-- **🏅 Grade Achieved:** **A** (Top 5% of class)
+- **🏅 Grade Achieved:** **A** 
 - **💰 Budget Performance:** 15% under allocated budget with enhanced features
 
 ### 📈 Professional Skills Developed
 - **📋 Project Management** - End-to-end network deployment planning
-- **💼 Stakeholder Communication** - Technical presentations to business leaders
 - **🔍 Problem Solving** - Complex network troubleshooting and optimization
 - **⚖️ Cost-Benefit Analysis** - ROI calculation and budget optimization
 - **📊 Performance Analysis** - Network metrics interpretation and improvement
@@ -366,7 +365,6 @@ ip access-list extended FINANCE_SECURITY_POLICY
 
 ### 📅 Phase 2: Advanced Features
 - [ ] **🌐 IPv6 Implementation** - Full dual-stack configuration
-- [ ] **🎵 QoS Policies** - Voice and video traffic prioritization
 - [ ] **☁️ SD-WAN Integration** - Software-defined WAN overlay
 - [ ] **🔒 802.1X Authentication** - Port-based network access control
 
